@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init3()
+comment0.text=\n\ init\ methos\ that\ set\ the\ GameOver\ JPanel\n
+comment1.params=
+comment1.target=int\ getscore()
+numComments=2
